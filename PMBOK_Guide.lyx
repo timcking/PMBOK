@@ -1,0 +1,2524 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1in
+\rightmargin 1in
+\bottommargin 1in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+PMBOK Guide
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+The Project Management Framework
+\end_layout
+
+\begin_layout Section
+Introduction
+\end_layout
+
+\begin_layout Subsection
+Purpose of the PMBOK Guide
+\end_layout
+
+\begin_layout Itemize
+To identify that subset of Project Management Body of Knowledge that is
+ generally recognized as good practice.
+\end_layout
+
+\begin_layout Itemize
+Does not mean that the knowledge should always be applied uniformly to all
+ projects; the Project Management team is responsible for determining what
+ is appropriate for any given project.
+\end_layout
+
+\begin_layout Itemize
+Project Management standards do not address all details of every project.
+\end_layout
+
+\begin_layout Subsection
+What is a Project?
+\end_layout
+
+\begin_layout Subsubsection
+Project Characteristics
+\end_layout
+
+\begin_layout Standard
+A project is a temporary endeavor undertaken to create a unique product,
+ service, or result.
+ 
+\end_layout
+
+\begin_layout Itemize
+Temporary - Every project has a definite beginning and a definite end.
+\end_layout
+
+\begin_layout Itemize
+Unique Products, Services or Results
+\end_layout
+
+\begin_layout Itemize
+Progressive Elaboration
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Scope will be broadly described early in the project and made more explicit
+ and detailed as the project progresses.
+\end_layout
+
+\begin_layout Itemize
+Not to be confused with scope creep
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Projects vs.
+ Operational Work
+\end_layout
+
+\begin_layout Standard
+Operations are ongoing and repetitive, while projects are temporary and
+ unique.
+\end_layout
+
+\begin_layout Subsubsection
+Projects and Strategic Planning
+\end_layout
+
+\begin_layout Standard
+Projects are used as a means of achieving an organization’s strategic plan.
+\end_layout
+
+\begin_layout Subsection
+What is Project Management?
+\end_layout
+
+\begin_layout Itemize
+Project Management is the application of knowledge, skills, tools, and technique
+s to project activities to meet project requirements.
+\end_layout
+
+\begin_layout Itemize
+Managing a project includes:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Identifying requirements Establishing clear and achievable objectives.
+\end_layout
+
+\begin_layout Itemize
+Balancing the competing demands for quality, scope, time, and cost.
+\end_layout
+
+\begin_layout Itemize
+Adapting the plans to the different concerns and expectations of the various
+ stakeholders.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+The term “Project Management” is sometimes used to describe and organizational
+ or managerial approach to the management of projects and some ongoing operation
+s.
+ “Management by project” can refer to ongoing operations.
+\end_layout
+
+\begin_layout Subsection
+The PMBOK Guide Structure
+\end_layout
+
+\begin_layout Subsubsection
+Section I: The Project Management Framework
+\end_layout
+
+\begin_layout Standard
+Chapter 1, Introduction
+\end_layout
+
+\begin_layout Standard
+Chapter 2, Project Life Cycle and Organization.
+\end_layout
+
+\begin_layout Subsubsection
+Section II: The Standard for Project Management of a Project
+\end_layout
+
+\begin_layout Standard
+Chapter 3, Project Management Processes for a Project
+\end_layout
+
+\begin_layout Subsubsection
+Section III: The Project Management Knowledge Areas
+\end_layout
+
+\begin_layout Standard
+Chapter 4, Project Integration Management
+\end_layout
+
+\begin_layout Standard
+Chapter 5, Project Scope Management
+\end_layout
+
+\begin_layout Standard
+Chapter 6, Project Time Management
+\end_layout
+
+\begin_layout Standard
+Chapter 7, Project Cost Management
+\end_layout
+
+\begin_layout Standard
+Chapter 8, Project Quality Management
+\end_layout
+
+\begin_layout Standard
+Chapter 9, Project Human Resource Management
+\end_layout
+
+\begin_layout Standard
+Chapter 10, Project Communications Management
+\end_layout
+
+\begin_layout Standard
+Chapter 11, Project Risk Management
+\end_layout
+
+\begin_layout Standard
+Chapter 12, Project Procurement Management
+\end_layout
+
+\begin_layout Subsection
+Areas of Expertise
+\end_layout
+
+\begin_layout Standard
+Effective Project Management requires knowledge and skills from at least
+ five areas of expertise.
+\end_layout
+
+\begin_layout Subsubsection
+The Project Management Body of Knowledge
+\end_layout
+
+\begin_layout Itemize
+Project Life Cycle Definition (Ch.
+ 2)
+\end_layout
+
+\begin_layout Itemize
+Five Project Management Process Groups (Ch.
+ 3)
+\end_layout
+
+\begin_layout Itemize
+Nine Knowledge Areas (Ch.
+ 4 – 12)
+\end_layout
+
+\begin_layout Subsubsection
+Application area knowledge, standards, and regulations.
+\end_layout
+
+\begin_layout Itemize
+Application areas are usually defined in terms of:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Function departments and supporting disciplines (legal, marketing, logistics,
+ personnel)
+\end_layout
+
+\begin_layout Itemize
+Technical elements ( software development, engineering)
+\end_layout
+
+\begin_layout Itemize
+Management specializations (government contracting, new product development)
+\end_layout
+
+\begin_layout Itemize
+Industry groups (automotive, utilities, financial services)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ISO differentiates between standards and regulations:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+A standard is a document established consensus and approved by a recognized
+ body (computer disk sizes).
+\end_layout
+
+\begin_layout Itemize
+A regulation is a government imposed requirement with which compliance is
+ mandatory (building codes).
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Understanding the project environment.
+\end_layout
+
+\begin_layout Standard
+The project manager should determine whether Project Management is recognized
+ as a valid role with accountability and authority for managing the project.
+\end_layout
+
+\begin_layout Subsubsection
+General management knowledge and skills.
+\end_layout
+
+\begin_layout Standard
+General management skills are essential for the project manager.
+\end_layout
+
+\begin_layout Subsubsection
+Interpersonal skills.
+\end_layout
+
+\begin_layout Subsection
+Project Management Context
+\end_layout
+
+\begin_layout Subsubsection
+Programs and Program Management
+\end_layout
+
+\begin_layout Standard
+A program is a group of related projects managed in a coordinated way.
+\end_layout
+
+\begin_layout Subsubsection
+Portfolios and Portfolio Management
+\end_layout
+
+\begin_layout Standard
+A portfolio is a collection of projects or programs and other work that
+ are grouped together to meet strategic business needs.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Sub-Projects
+\end_layout
+
+\begin_layout Itemize
+Individual sub-projects can be referred to as projects and managed as such.
+\end_layout
+
+\begin_layout Itemize
+Sub-projects are often contracted to an external enterprise.
+\end_layout
+
+\begin_layout Subsubsection
+Project Management Office
+\end_layout
+
+\begin_layout Standard
+The PMO is an organization unit to centralize and coordinate the management
+ of projects under its domain.
+\end_layout
+
+\begin_layout Section
+Project Life Cycle and Organization
+\end_layout
+
+\begin_layout Subsection
+The Project Life Cycle
+\end_layout
+
+\begin_layout Standard
+Projects can be divided into phases to provide better management control.
+ Collectively, these phases are known as the project life cycle.
+\end_layout
+
+\begin_layout Subsubsection
+Characteristics of the Project Life Cycle
+\end_layout
+
+\begin_layout Itemize
+The Project Life Cycle can help the Project Manager determine whether a
+ feasibility study should be the first phase of a project or if it should
+ be treated as a separate project.
+ (Treat as a separate project if the outcome is not clearly identifiable.
+\end_layout
+
+\begin_layout Itemize
+The transition from one phase to another is usually defined by some form
+ of technical transfer or handoff.
+ Deliverables from one phase are reviewed and approved before work starts
+ on the next phase.
+\end_layout
+
+\begin_layout Itemize
+It is not uncommon for a phase to begin before approval of the previous
+ phase.
+ This is a schedule compression technique called fast tracking.
+\end_layout
+
+\begin_layout Itemize
+There is no single best way to define an ideal project lifecycle.
+ An industry's common practices may define the preferred life cycle within
+ that industry (Software Development Life Cycle, SDLC, for example).
+\end_layout
+
+\begin_layout Itemize
+Project life cycles generally define:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+What technical work to do in each phase.
+\end_layout
+
+\begin_layout Itemize
+When deliverables are to be generated in each phase and how they are approved.
+\end_layout
+
+\begin_layout Itemize
+Who is involved in each phase.
+\end_layout
+
+\begin_layout Itemize
+How to control and approve each phase.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Project life cycles share common characteristics:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Phases are sequential and defined by some sort of technical information
+ transfer.
+\end_layout
+
+\begin_layout Itemize
+Cost and staffing levels are low at the beginning and end, and peak in the
+ middle of a project.
+\end_layout
+
+\begin_layout Itemize
+The level of uncertainty and risk is highest at the start of a project.
+\end_layout
+
+\begin_layout Itemize
+The level of stakeholders influence is higher at the start of a project
+ than towards the end.
+ This is partly due to the cost of changes is higher as the project progresses.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Few life cycles are identical.
+ SDLC may have two design phases, one for architectural design and one for
+ detailed design.
+\end_layout
+
+\begin_layout Subsubsection
+Characteristics of Project Phases
+\end_layout
+
+\begin_layout Itemize
+The completion and approval of one or more deliverables marks a project
+ phase.
+ A deliverable is a measurable, verifiable work project.
+ Some deliverables are the end products for which the project was conceived.
+\end_layout
+
+\begin_layout Itemize
+Projects can be further divided into sub-phases.
+\end_layout
+
+\begin_layout Itemize
+Some projects, especially software, use an iterative life cycle where more
+ than one phase of the project progresses simultaneously.
+\end_layout
+
+\begin_layout Itemize
+A phase-end review can be held with the goals of obtaining authorization
+ to close the current phase and to initiate the subsequent one.
+ Sometimes both authorizations can be obtained at one review.
+\end_layout
+
+\begin_layout Subsubsection
+Project Life Cycle and Product Life Cycle Relationships
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Product_vs_Project.eps
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Some projects, especially internal service or new product development, can
+ be initiated informally for a limited amount of time to secure formal approval
+ for additional phases or activities.
+\end_layout
+
+\begin_layout Itemize
+The project life cycle is a subset of the product life cycle.
+\end_layout
+
+\begin_layout Itemize
+Most software development organizations consider the project life cycle
+ as part of the product life cycle.
+\end_layout
+
+\begin_layout Subsection
+Project Stakeholders
+\end_layout
+
+\begin_layout Itemize
+Stakeholders are individuals or organizations that are actively involved
+ or whose interest may be affected by the execution of the project.
+\end_layout
+
+\begin_layout Itemize
+The may also exert influence over the project’s objectives and outcome.
+\end_layout
+
+\begin_layout Itemize
+The Project Management team must:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Identify stakeholders.
+\end_layout
+
+\begin_layout Itemize
+Determine their requirements and expectations.
+\end_layout
+
+\begin_layout Itemize
+Manage their influence in relation to the requirements.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Stakeholders who ignore their responsibility can have a damaging impact
+ on the project.
+ Likewise, project managers who ignore stakeholders can also expect a damaging
+ impact on project outcomes.
+\end_layout
+
+\begin_layout Itemize
+Any project can have positive and negative stakeholders.
+ For example, in new construction, the local businesses would be the positive
+ stakeholders and environmental groups would be the negative stakeholders
+ (project completion would be a negative for them).
+\end_layout
+
+\begin_layout Itemize
+Key stakeholders on every project:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Project
+\begin_inset space ~
+\end_inset
+
+manager.
+ 
+\end_layout
+
+\begin_layout Itemize
+Customer/user.
+ The person or organization who will use the project’s product.
+ There may be multiple layer of customers.
+ In some projects, customers and users are synonymous while, in other projects,
+ the customer refers to the entity who will be acquiring the product and
+ users are those who directly utilize the product.
+\end_layout
+
+\begin_layout Itemize
+Performing organization.
+ The enterprise whose employees are most directly involved in the execution
+ of the project.
+\end_layout
+
+\begin_layout Itemize
+Project team members.
+ The group performing the work of the project.
+\end_layout
+
+\begin_layout Itemize
+Sponsor.
+ The person or group that provides the financial resources.
+\end_layout
+
+\begin_layout Itemize
+Influencers.
+ People or groups not directly related to the acquisition or use of the
+ product, but may have a positive or negative influence on the project.
+\end_layout
+
+\begin_layout Itemize
+PMO.
+ Can be a stakeholder if it has direct or indirect responsibility for the
+ outcome of the project.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Stakeholders roles and responsibilities can overlap.
+\end_layout
+
+\begin_layout Itemize
+Stakeholders may have different or conflicting objectives.
+ A department has requested a new information system.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+The manager may desire low cost.
+\end_layout
+
+\begin_layout Itemize
+The system architect may emphasize technical excellence.
+\end_layout
+
+\begin_layout Itemize
+The programming contractor may be most interested in maximizing its profit.
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Organizational Influences
+\end_layout
+
+\begin_layout Subsubsection
+Organizational Systems
+\end_layout
+
+\begin_layout Itemize
+Project-based organizations fall into tow categories.
+\end_layout
+
+\begin_layout Itemize
+Organizations that derive their revenue primarily from performing projects
+ for others under contract.
+\end_layout
+
+\begin_layout Itemize
+Organizations that have adopted management by projects.
+ They have management systems to facilitate project management.
+\end_layout
+
+\begin_layout Itemize
+Non-project-based organizations often lack management systems to support
+ project needs.
+\end_layout
+
+\begin_layout Subsubsection
+Organizational Cultures and Styles
+\end_layout
+
+\begin_layout Itemize
+Organizational cultures have a direct influence over a project.
+\end_layout
+
+\begin_layout Itemize
+A team proposing an unusual or high-risk approach is more likely to secure
+ approval in an aggressive or entrepreneurial organization.
+\end_layout
+
+\begin_layout Subsubsection
+Organizational Structure
+\end_layout
+
+\begin_layout Standard
+Types of organizations.
+ (See PMBOK p.
+ 28 – 31)
+\end_layout
+
+\begin_layout Itemize
+Functional
+\end_layout
+
+\begin_layout Itemize
+Weak Matrix
+\end_layout
+
+\begin_layout Itemize
+Balanced Matrix
+\end_layout
+
+\begin_layout Itemize
+Strong Matrix
+\end_layout
+
+\begin_layout Itemize
+Projectized
+\end_layout
+
+\begin_layout Itemize
+Composite
+\end_layout
+
+\begin_layout Subsubsection
+The Role of the PMO in Organizational Structure
+\end_layout
+
+\begin_layout Standard
+A PMO's function can range from and advisory influence to a formal grant
+ of authority from executive management.
+\end_layout
+
+\begin_layout Subsubsection
+Project Management System
+\end_layout
+
+\begin_layout Itemize
+The PM system is the set of tools, techniques, methodologies, resources,
+ and procedures used to manage a project.
+\end_layout
+
+\begin_layout Itemize
+The project management plan describes how the PM system will be used.
+\end_layout
+
+\begin_layout Itemize
+The PM system content will vary depending on the application area, organizationa
+l influence, complexity, and availability of existing systems.
+\end_layout
+
+\begin_layout Itemize
+One role of a PMO is to manage the PM system in order to ensure consistency.
+\end_layout
+
+\begin_layout Part
+The Standard for Project Management of a Project
+\end_layout
+
+\begin_layout Section
+Project Management Processes for a Project
+\end_layout
+
+\begin_layout Itemize
+Select appropriate processes with the PM process groups that are required
+ to meet the project objectives.
+\end_layout
+
+\begin_layout Itemize
+Adapt the product specifications and plans to meet project and product requireme
+nts.
+\end_layout
+
+\begin_layout Itemize
+Comply with requirements to meet stakeholders needs and expectations.
+\end_layout
+
+\begin_layout Itemize
+Balance the competing demands of:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Scope
+\end_layout
+
+\begin_layout Itemize
+Time
+\end_layout
+
+\begin_layout Itemize
+Cost
+\end_layout
+
+\begin_layout Itemize
+Quality
+\end_layout
+
+\begin_layout Itemize
+Resources
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Knowledge, skills, and processes should not always be applied uniformly
+ on all projects.
+ The project manager and project team are responsible for determining what
+ processes are appropriate for any given project.
+ This is known as tailoring.
+\end_layout
+
+\begin_layout Itemize
+Project processes generally fall into two categories.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+The project management processes common to most projects.
+ Initiating, planning, executing, controlling and closing.
+ The processes may also interact in relation to project scope, cost, schedule,
+ etc., which are called Knowledge Areas.
+\end_layout
+
+\begin_layout Itemize
+Product oriented processes specify and create the project's product and
+ are defined by the project's life cycle and vary by application area.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Project and product processes overlap and interact throughout the project.
+\end_layout
+
+\begin_layout Itemize
+Process interactions often require trade-offs among project requirements
+ and objectives.
+\end_layout
+
+\begin_layout Itemize
+Successful project management includes actively managing these interactions
+ to meet sponsor, customer, and stakeholder requirements.
+\end_layout
+
+\begin_layout Subsection
+Project Management Processes
+\end_layout
+
+\begin_layout Itemize
+The application of the project management processes to a project is iterative
+ and many processes are repeated and revised during the project.
+\end_layout
+
+\begin_layout Itemize
+An underlying concept for the interaction among PM processes is the plan-do-chec
+k-act cycle.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Plan = Planning Process Group
+\end_layout
+
+\begin_layout Itemize
+Do = Executing Process Group.
+\end_layout
+
+\begin_layout Itemize
+Check and Act = Monitoring and Controlling Process Groups.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+The Initiating Process Group starts these cycles and the Closing Process
+ Group ends them.
+\end_layout
+
+\begin_layout Subsection
+Project Management Process Groups
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Project_Lifecycle.eps
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+The 5 groups have clear dependencies and are performed in the same sequence
+ on each project.
+\end_layout
+
+\begin_layout Itemize
+“Constituent processes” are sub-processes with the 5 process groups.
+ The constituent processes can be iterated within a process group or have
+ interactions with other sub-processes.
+\end_layout
+
+\begin_layout Itemize
+See process flow diagram on p.
+ 42.
+\end_layout
+
+\begin_layout Itemize
+The process groups are not project phases.
+ All of the process group processes would normally be repeated for each
+ phase of the project (feasibility, design, prototype, build, test, etc.).
+\end_layout
+
+\begin_layout Itemize
+The five Process Groups
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Initiating Process Group.
+ Defines and authorizes the project or project phase.
+\end_layout
+
+\begin_layout Itemize
+Planning Process Group.
+ Defines and refines objectives and plans the course of action required
+ to attain the objectives and scope of the project.
+\end_layout
+
+\begin_layout Itemize
+Executing Process Group.
+ Integrates people and resources to carry out the project management plan.
+\end_layout
+
+\begin_layout Itemize
+Monitoring and Controlling Process Group.
+ Measures and monitors progress to identify variances from the project managemen
+t plan so corrective action can be taken when necessary.
+\end_layout
+
+\begin_layout Itemize
+Closing Process Group.
+ Formalizes acceptance of the product, service or results and brings the
+ project or phase to an orderly end.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Initiating Process Groups
+\end_layout
+
+\begin_layout Itemize
+The processes that facilitate the formal authorization to start a new project
+ or a project phase.
+\end_layout
+
+\begin_layout Itemize
+Often done external to the project's scope.
+ Figure 3.5, p.
+ 43.
+ This may blur the project boundaries for the initial project inputs.
+ For example, business requirements, scope, deliverables are part of the
+ project charter.
+\end_layout
+
+\begin_layout Enumerate
+Develop Project Charter
+\end_layout
+
+\begin_layout Enumerate
+Develop Preliminary Project Scope Statement
+\end_layout
+
+\begin_layout Subsubsection
+Planning Process Group
+\end_layout
+
+\begin_layout Enumerate
+Develop Project Management Plan
+\end_layout
+
+\begin_layout Enumerate
+Scope Planning
+\end_layout
+
+\begin_layout Enumerate
+Scope Definition
+\end_layout
+
+\begin_layout Enumerate
+Create WBS
+\end_layout
+
+\begin_layout Enumerate
+Activity Definition
+\end_layout
+
+\begin_layout Enumerate
+Activity Sequencing
+\end_layout
+
+\begin_layout Enumerate
+Activity Resource Estimating
+\end_layout
+
+\begin_layout Enumerate
+Activity Duration Estimating
+\end_layout
+
+\begin_layout Enumerate
+Schedule Development
+\end_layout
+
+\begin_layout Enumerate
+Cost Estimating
+\end_layout
+
+\begin_layout Enumerate
+Cost Budgeting
+\end_layout
+
+\begin_layout Enumerate
+Quality Planning
+\end_layout
+
+\begin_layout Enumerate
+Human Resource Planning
+\end_layout
+
+\begin_layout Enumerate
+Communications Planning
+\end_layout
+
+\begin_layout Enumerate
+Risk Management Planning
+\end_layout
+
+\begin_layout Enumerate
+Risk Identification
+\end_layout
+
+\begin_layout Enumerate
+Qualitative Risk Analysis
+\end_layout
+
+\begin_layout Enumerate
+Quantitative Risk Analysis
+\end_layout
+
+\begin_layout Enumerate
+Risk Response Planning
+\end_layout
+
+\begin_layout Enumerate
+Plan Purchases and Acquisitions
+\end_layout
+
+\begin_layout Enumerate
+Plan Contracting
+\end_layout
+
+\begin_layout Subsubsection
+Executing Process Group
+\end_layout
+
+\begin_layout Enumerate
+Direct and Manage Project Execution
+\end_layout
+
+\begin_layout Enumerate
+Perform Quality Assurance
+\end_layout
+
+\begin_layout Enumerate
+Acquire Project Team
+\end_layout
+
+\begin_layout Enumerate
+Develop Project Team
+\end_layout
+
+\begin_layout Enumerate
+Information Distribution
+\end_layout
+
+\begin_layout Enumerate
+Request Seller Responses
+\end_layout
+
+\begin_layout Enumerate
+Select Sellers
+\end_layout
+
+\begin_layout Subsubsection
+Monitoring and Controlling Process Groups
+\end_layout
+
+\begin_layout Enumerate
+Monitor and Control Project Work
+\end_layout
+
+\begin_layout Enumerate
+Integrate Change Control
+\end_layout
+
+\begin_layout Enumerate
+Scope Verification
+\end_layout
+
+\begin_layout Enumerate
+Scope Control
+\end_layout
+
+\begin_layout Enumerate
+Schedule Control
+\end_layout
+
+\begin_layout Enumerate
+Cost Control
+\end_layout
+
+\begin_layout Enumerate
+Perform Quality Control
+\end_layout
+
+\begin_layout Enumerate
+Manage Project Team
+\end_layout
+
+\begin_layout Enumerate
+Performance Reporting
+\end_layout
+
+\begin_layout Enumerate
+Manage Stakeholders
+\end_layout
+
+\begin_layout Enumerate
+Risk Monitoring and Control
+\end_layout
+
+\begin_layout Enumerate
+Contract Administration
+\end_layout
+
+\begin_layout Subsubsection
+Closing Process Group
+\end_layout
+
+\begin_layout Enumerate
+Close Project
+\end_layout
+
+\begin_layout Enumerate
+Contract Closure
+\end_layout
+
+\begin_layout Subsection
+Process Interactions
+\end_layout
+
+\begin_layout Subsection
+Project Management Process Mapping
+\end_layout
+
+\begin_layout Part
+The Project Management Knowledge Areas
+\end_layout
+
+\begin_layout Standard
+Process Flow Diagrams
+\end_layout
+
+\begin_layout Itemize
+A summary level depiction of the process inputs and process outputs that
+ flow down through all the processes within a specific knowledge area.
+\end_layout
+
+\begin_layout Standard
+Major Project Documents
+\end_layout
+
+\begin_layout Itemize
+Project Charter.
+ Formal authorization.
+\end_layout
+
+\begin_layout Itemize
+Project Scope Statement.
+ States what work is to be accomplished and what deliverables need to be
+ produced.
+\end_layout
+
+\begin_layout Itemize
+Project Management Plan.
+ States how the work will be performed.
+\end_layout
+
+\begin_layout Section
+Project Integration Management
+\end_layout
+
+\begin_layout Itemize
+This area includes the processes and activities needed to identify, define,
+ combine, unify, and coordinate the various processes and PM activities
+ within the process groups.
+\end_layout
+
+\begin_layout Subsection
+Develop Project Charter
+\end_layout
+
+\begin_layout Subsection
+Develop Preliminary Project Scope Statement
+\end_layout
+
+\begin_layout Subsection
+Develop Project Management Plan
+\end_layout
+
+\begin_layout Subsection
+Direct and Manage Project Execution
+\end_layout
+
+\begin_layout Subsection
+Monitor and Control Project Work
+\end_layout
+
+\begin_layout Subsection
+Integrated Change Control
+\end_layout
+
+\begin_layout Subsection
+Close Project
+\end_layout
+
+\begin_layout Section
+Project Scope Management
+\end_layout
+
+\begin_layout Subsection
+Scope Planning
+\end_layout
+
+\begin_layout Subsection
+Scope Definition
+\end_layout
+
+\begin_layout Subsection
+Create WBS
+\end_layout
+
+\begin_layout Subsection
+Scope Verification
+\end_layout
+
+\begin_layout Subsection
+Scope Control
+\end_layout
+
+\begin_layout Section
+Project Time Management
+\end_layout
+
+\begin_layout Subsection
+Activity Definition
+\end_layout
+
+\begin_layout Subsection
+Activity Sequencing
+\end_layout
+
+\begin_layout Subsection
+Activity Resource Estimating
+\end_layout
+
+\begin_layout Subsection
+Activity Duration Estimating
+\end_layout
+
+\begin_layout Subsection
+Schedule Development
+\end_layout
+
+\begin_layout Subsection
+Schedule Control
+\end_layout
+
+\begin_layout Section
+Project Cost Management
+\end_layout
+
+\begin_layout Subsection
+Cost Estimating
+\end_layout
+
+\begin_layout Subsection
+Cost Budgeting
+\end_layout
+
+\begin_layout Subsection
+Cost Control
+\end_layout
+
+\begin_layout Section
+Project Quality Management
+\end_layout
+
+\begin_layout Subsection
+Quality Planning
+\end_layout
+
+\begin_layout Subsection
+Perform Quality Assurance
+\end_layout
+
+\begin_layout Subsection
+Perform Quality Control
+\end_layout
+
+\begin_layout Section
+Project Human Resources Management
+\end_layout
+
+\begin_layout Subsection
+Human Resource Planning
+\end_layout
+
+\begin_layout Subsection
+Acquire Project Team
+\end_layout
+
+\begin_layout Subsection
+Develop Project Team
+\end_layout
+
+\begin_layout Subsection
+Manage Project Team
+\end_layout
+
+\begin_layout Section
+Project Communications Management
+\end_layout
+
+\begin_layout Subsection
+Communications Planning
+\end_layout
+
+\begin_layout Subsection
+Information Distribution
+\end_layout
+
+\begin_layout Subsection
+Performance Reporting
+\end_layout
+
+\begin_layout Subsection
+Manage Stakeholders
+\end_layout
+
+\begin_layout Section
+Project Risk Management
+\end_layout
+
+\begin_layout Subsection
+Risk Management Planning
+\end_layout
+
+\begin_layout Subsection
+Risk Identification
+\end_layout
+
+\begin_layout Subsection
+Qualitative Risk Analysis
+\end_layout
+
+\begin_layout Subsection
+Quantitative Risk Analysis
+\end_layout
+
+\begin_layout Subsection
+Risk Response Planning
+\end_layout
+
+\begin_layout Subsection
+Risk Monitoring and Control
+\end_layout
+
+\begin_layout Section
+Project Procurement Management
+\end_layout
+
+\begin_layout Itemize
+PPM includes the processes to purchase or acquire the products, services,
+ or results (PSR's) needed from outside the project team to perform the
+ work.
+\end_layout
+
+\begin_layout Itemize
+The organization can be either the buyer or seller.
+\end_layout
+
+\begin_layout Itemize
+Contracts are legal documents.
+\end_layout
+
+\begin_layout Itemize
+A contract can also be called an agreement, subcontract, or purchase order.
+\end_layout
+
+\begin_layout Itemize
+A project can involve multiple contracts and each contract life cycle can
+ end during any phase of the project life cycle.
+\end_layout
+
+\begin_layout Subsection
+Plan Purchases and Acquisitions
+\end_layout
+
+\begin_layout Itemize
+This process identifies which project needs can be met by purchasing/acquiring
+ and which needs can accomplished by the project team.
+\end_layout
+
+\begin_layout Itemize
+This process includes reviewing the risks in each make-or-buy decision and
+ reviewing the type of contract planned to be used with respect to mitigating
+ risks and transferring risks to the seller.
+\end_layout
+
+\begin_layout Subsubsection
+Plan Purchases and Acquisitions: Inputs
+\end_layout
+
+\begin_layout Enumerate
+Enterprise Environmental Factors
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Enterprise Environmental Factors (Section 4.1.1.3) include the conditions of
+ the marketplace and what PSR’s are available, from whom, and under what
+ terms and conditions.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Organizational Process Assets
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(Section 4.1.1.4) Organization process assets provide the formal and informal
+ procurement-related policies that are considered in developing the procurement
+ management plan and selecting the contract types to be used.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Project Scope Statement
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(Section 5.2.3.1) Describes the constraints that can limit both the buyer’s
+ and seller’s options.
+\end_layout
+
+\begin_layout Standard
+Common constraints are availability of funds, required delivery dates, and
+ available skilled resources.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Work Breakdown Structure
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(Section 5.3.3.2)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+WBS Dictionary
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(Section 5.3.3.3)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Project Management Plan
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(Section 4.3)
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Plan Purchases and Acquisitions: Tools and Techniques
+\end_layout
+
+\begin_layout Enumerate
+Make-or-Buy Analysis
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Used to determine whether a particular product or service can be produced
+ by the project team or can be purchased.
+\end_layout
+
+\begin_layout Itemize
+Also includes buy or rent decision, which reflects the needs of the project
+ team.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Expert Judgment
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Includes expert purchasing judgment and expert legal judgment.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Contract Types
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+The type of contract used and the terms and conditions set the degree of
+ risk being assumed by the buyer and seller.
+\end_layout
+
+\begin_layout Itemize
+Contracts fall into 3 categories:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Fixed-price or lump-sum contracts.
+ Involves a fixed total price for a well-defined product.
+ The simplest form is a purchase order for a specified item to be delivered
+ by a specified date for a specified price.
+\end_layout
+
+\begin_layout Enumerate
+Cost-reimbursable contracts.
+ Involves payment to the seller for the seller’s actual cost, plus a fee
+ typically representing profit.
+ Costs are classified as Direct Costs, costs incurred for the exclusive
+ benefit of the project (e.g., salaries), Indirect Costs, overhead and administrat
+ive costs, usually calculated as percentage of direct costs.
+ Three common types of cost-reimbursable contacts:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Cost-Plus-Fee (CPF) or Cost-Plus-Percentage of Cost (CPPC).
+ Seller is reimbursed for the costs performing the contract and receives
+ a fee calculated as an agreed-upon percentage of the costs.
+\end_layout
+
+\begin_layout Enumerate
+Cost-Plus-Fixed Fee (CPFF).
+ Seller is reimbursed for the costs performing the contract plus a fixed
+ fee payment calculated as a percentage of the estimated projects costs.
+\end_layout
+
+\begin_layout Enumerate
+Cost-Plus-Incentive-Fee (CPIF).
+ Seller is reimbursed for the costs performing the contract plus a predetermined
+ fee based upon achieving certain performance objectives.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Time and Material (T&M) contracts.
+ A hybrid of the other two types.
+ The full value of the agreement is not determined at the time of the award.
+ T&M contracts can grow in value as if they were cost-reimbursable arrangements.
+ Also, they can resemble fixed-priced contracts because unit rates can be
+ preset by the buyer and seller.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Subsubsection
+Plan Purchases and Acquisitions: Outputs
+\end_layout
+
+\begin_layout Enumerate
+Procurement Management Plan
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+The Procurement Management Plan can be formal or informal and is based on
+ the needs of the project.
+ The Procurement Management Plan is a subsidiary component of the project
+ management plan.
+\end_layout
+
+\begin_layout Itemize
+P.
+ 279 lists items the plan can include.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Contract Statement of Work
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Defines just the portion of the project scope that is included within the
+ related contract.
+\end_layout
+
+\begin_layout Itemize
+The SOW describes the procurement item in sufficient detail to allow the
+ seller to determine if they are capable of delivering the item.
+\end_layout
+
+\begin_layout Itemize
+SOW can include specifications, quantity desired, quality levels, performance
+ data, period of performance, work location, and other requirements.
+\end_layout
+
+\begin_layout Itemize
+SOW can be revised or refined as it moves through the procurement process
+ until the contract is signed.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Make-or-Buy Decisions
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+The documented decisions of what project PSR’s will either be acquired of
+ be developed by the project team.
+\end_layout
+
+\begin_layout Itemize
+May include decisions to buy insurance policies to mitigate risks.
+\end_layout
+
+\begin_layout Itemize
+Can be just a simple list with a short justification for the decision.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Requested Changes
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Requested changes (Section 4.4) to the project management plan may result
+ from the Plan Purchases and Acquisition.
+ These changes are processed through the Integrated Change Control process
+ (Section 4.6).
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Plan Contracting
+\end_layout
+
+\begin_layout Itemize
+The Plan Contracting process prepares the documents needed to support the
+ Request Seller Responses process and the Select Sellers process.
+\end_layout
+
+\begin_layout Subsubsection
+Plan Contracting: Inputs
+\end_layout
+
+\begin_layout Enumerate
+Procurement Management Plan
+\end_layout
+
+\begin_layout Enumerate
+Contract Statement of Work
+\end_layout
+
+\begin_layout Enumerate
+Make-or-Buy Decisions
+\end_layout
+
+\begin_layout Enumerate
+Project Management Plan
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Risk register
+\end_layout
+
+\begin_layout Itemize
+Risk-related contractual agreements (11.5.3.3)
+\end_layout
+
+\begin_layout Itemize
+Activity resource requirements (6.3.3.1)
+\end_layout
+
+\begin_layout Itemize
+Project scheduled (6.5.3.1)
+\end_layout
+
+\begin_layout Itemize
+Activity cost estimates (7.1.3.1)
+\end_layout
+
+\begin_layout Itemize
+Cost baseline (7.2.3.1)
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Plan Contracting: Tools and Techniques
+\end_layout
+
+\begin_layout Enumerate
+Standard Forms
+\end_layout
+
+\begin_layout Enumerate
+Expert Judgment
+\end_layout
+
+\begin_layout Subsubsection
+Plan Contracting: Outputs
+\end_layout
+
+\begin_layout Enumerate
+Procurement Documents
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Terms such as bid, tender or quotation is used when the selection decision
+ will be based on price, while a term such as proposal is used when considering
+ other criteria, such as technical skills.
+ (RFQ vs.
+ RFP? Check class notes)
+\end_layout
+
+\begin_layout Itemize
+Other common names are invitation for bid, request for proposal, request
+ for quotation, tender notice, invitation for negotiation, and contractor
+ initial response.
+\end_layout
+
+\begin_layout Itemize
+The complexity and level of detail should be consistent with the value of,
+ and risk associated with, the planned purchases.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Evaluation Criteria
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Evaluation criteria can be objective or subjective.
+ Examples of other criteria:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Understanding of need.
+\end_layout
+
+\begin_layout Enumerate
+Overall or life-cycle cost.
+\end_layout
+
+\begin_layout Enumerate
+Technical capability.
+\end_layout
+
+\begin_layout Enumerate
+Management approach
+\end_layout
+
+\begin_layout Enumerate
+Technical approach
+\end_layout
+
+\begin_layout Enumerate
+Financial capacity.
+\end_layout
+
+\begin_layout Enumerate
+Production capacity and interest
+\end_layout
+
+\begin_layout Enumerate
+Business size and Type
+\end_layout
+
+\begin_layout Enumerate
+References
+\end_layout
+
+\begin_layout Enumerate
+Intellectual property rights
+\end_layout
+
+\begin_layout Enumerate
+Proprietary rights.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+Contract Statement of Work
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Modifications to one or more contract statements of work (12.1.3.2) can be
+ identified during document development.
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Request Seller Responses
+\end_layout
+
+\begin_layout Itemize
+Obtains responses from prospective sellers.
+ Sellers expend most of the effort in this process.
+\end_layout
+
+\begin_layout Subsubsection
+Request Seller Responses: Inputs
+\end_layout
+
+\begin_layout Enumerate
+Organizational Process Assets
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Organizations may maintain lists of previously qualified sellers or have
+ a list of preferred sellers.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Procurement Management Plan
+\end_layout
+
+\begin_layout Enumerate
+Procurement Documents
+\end_layout
+
+\begin_layout Subsubsection
+Request Seller Responses: Tools and Techniques
+\end_layout
+
+\begin_layout Enumerate
+Bidder Conferences
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Ensures prospective sellers have a clear, common understanding of the procuremen
+t.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Advertising
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Some government jurisdictions require public advertising of certain procurement
+ items.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Develop Qualified Seller List
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Can be developed from organization assets or from the project team.
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Request Seller Responses: Outputs
+\end_layout
+
+\begin_layout Enumerate
+Qualified Sellers List
+\end_layout
+
+\begin_layout Enumerate
+Procurement Document Package
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+A buyer prepared formal request sent to each seller and is the basis upon
+ which a seller prepares a bid.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Proposals
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Seller-prepared documents that describe the seller’s ability to provide
+ the requested PSR’s described in the procurement document.
+\end_layout
+
+\begin_layout Itemize
+Represents a formal and legal offer in response to the buyer’s request.
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Select Sellers
+\end_layout
+
+\begin_layout Itemize
+The select sellers process receives bids or proposals and applies evaluation
+ criteria.
+\end_layout
+
+\begin_layout Subsubsection
+Select Sellers: Inputs
+\end_layout
+
+\begin_layout Enumerate
+Organizational Process Assets
+\end_layout
+
+\begin_layout Enumerate
+Procurement Management Plan
+\end_layout
+
+\begin_layout Enumerate
+Evaluation Criteria
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Can include samples of supplier’s previously produced products or a review
+ of the supplier’s history.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Procurement Document Package
+\end_layout
+
+\begin_layout Enumerate
+Proposals
+\end_layout
+
+\begin_layout Enumerate
+Qualified Sellers List
+\end_layout
+
+\begin_layout Enumerate
+Project Management Plan
+\end_layout
+
+\begin_layout Subsubsection
+Select Sellers: Tools and Techniques
+\end_layout
+
+\begin_layout Enumerate
+Weighting Systems
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Involves assigning a numerical weight to each of the evaluation criteria,
+ rating the sellers on each criteria, and multiplying the weight by the
+ rating.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Independent Estimates
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Sometimes referred to as a “should-cost” estimate.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Screening System
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Involves establishing minimum requirements of performance for one or more
+ of the evaluation criteria.
+\end_layout
+
+\begin_layout Itemize
+Can also employ a weighting system.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Contract Negotiation
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Subjects covered include responsibilities and authorities, applicable terms
+ and law, technical and business management approaches, proprietary rights,
+ contract financing, technical solutions, overall schedule, payments, and
+ price.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Seller Rating Systems
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Use information such as past performance, quality ratings, delivery performance,
+ and contractual compliance.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Expert Judgment
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Evaluation can be made by a multi-discipline review team with expertise
+ in each of the areas covered by the procurement documents.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Proposal Evaluation Techniques
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Can involve objective and subjective components.
+\end_layout
+
+\begin_layout Itemize
+Often uses a weighting system from multiple reviewers.
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Select Sellers: Outputs
+\end_layout
+
+\begin_layout Enumerate
+Selected Sellers
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Sellers judged to be in a competitive range.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Contract
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+The contract can be in the form of a complex document or a simple purchase
+ order.
+\end_layout
+
+\begin_layout Itemize
+The contract is a mutually binding legal agreement.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Contract Management Plan
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+The plan covers contract administration throughout the life of the contract.
+\end_layout
+
+\begin_layout Itemize
+Is a subset of the project management plan.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Resource Availability
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+The quantity and availability of resources and the dates on which a specific
+ resource can be active or idle.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Procurement Management Plan (Updates)
+\end_layout
+
+\begin_layout Enumerate
+Requested Changes
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Changes to the project management plan and its subsidiary plans may result
+ from the process.
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Contract Administration
+\end_layout
+
+\begin_layout Itemize
+On large projects, a key aspect of contract admin is managing interfaces
+ among various providers.
+\end_layout
+
+\begin_layout Itemize
+Many organizations treat contract admin as an administrative function separate
+ from the project organization.
+\end_layout
+
+\begin_layout Itemize
+Project management processes applied to contract admin include:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Direct and Manage Project Execution to authorize the contractor’s work at
+ the appropriate time.
+\end_layout
+
+\begin_layout Itemize
+Performance Reporting to monitor contract cost, schedule, and technical
+ performance.
+\end_layout
+
+\begin_layout Itemize
+Perform Quality Control to inspect and verify the adequacy of the contractor’s
+ product.
+\end_layout
+
+\begin_layout Itemize
+Risk Monitoring and Control to ensure that risks are mitigated.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Contracts can be amended any time prior to contract closure by mutual consent.
+\end_layout
+
+\begin_layout Subsubsection
+Contract Administration: Inputs
+\end_layout
+
+\begin_layout Enumerate
+Contract
+\end_layout
+
+\begin_layout Enumerate
+Contract Management Plan
+\end_layout
+
+\begin_layout Enumerate
+Selected Sellers
+\end_layout
+
+\begin_layout Enumerate
+Performance Reports
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Seller-developed technical documentation.
+\end_layout
+
+\begin_layout Itemize
+Seller performance reports.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Approved Change Requests
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Can include modifications to the terms and conditions of the contract.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Work Performance Information
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+The seller’s performance reports indicate which deliverables have been completed
+ and which have not.
+\end_layout
+
+\begin_layout Itemize
+Seller must submit invoices on a timely basis to request payment for work
+ performed.
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Contract Administration: Tools and Techniques
+\end_layout
+
+\begin_layout Enumerate
+Contract Change Control System
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Defines the process by which the contract can be modified.
+\end_layout
+
+\begin_layout Itemize
+Is integrated with the integrated change control system.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Buyer Conducted Performance Review
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Identifies performance successes or failures, progress, and contract non-complia
+nce.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Inspections and Audit (8.2.2.2)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Identifies any weaknesses in the seller’s work processes or deliverables.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Performance Reporting (10.3.3.1)
+\end_layout
+
+\begin_layout Enumerate
+Payment System
+\end_layout
+
+\begin_layout Enumerate
+Claims Administration
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Requested changes where the buyer and seller cannot agree on compensation
+ for the change.
+\end_layout
+
+\begin_layout Itemize
+Referred to as claims, disputes, or appeals.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Records Management System
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Used by the project manager to manage contract documentation and records.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Information Technology
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Information and communications technologies can enhance the efficiency of
+ effectiveness of contract administration by automation.
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Contract Administration: Outputs
+\end_layout
+
+\begin_layout Enumerate
+Contract Documentation
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Includes the contract along with supporting schedules and change requests.
+\end_layout
+
+\begin_layout Itemize
+Also includes seller performance reports, warranties, and financial documents.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Requested Changes
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Request changes are processed for review and approval through the Integrated
+ Change Control process (4.6).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Recommended Corrective Actions
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Anything that needs to be done to bring the seller in compliance with the
+ terms of the contract.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Organization Process Assets (Updates)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Correspondence – A complete and accurate written record of all written and
+ oral contract communications.
+\end_layout
+
+\begin_layout Itemize
+Payment schedules and requests.
+\end_layout
+
+\begin_layout Itemize
+Seller performance evaluation documentation
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Project Management Plan (Updates)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Updates to the Procurement Management Plan.
+\end_layout
+
+\begin_layout Itemize
+Updates to the Contract Management Plan.
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Contract Closure
+\end_layout
+
+\begin_layout Itemize
+Supports the Close Project process (4.7).
+\end_layout
+
+\begin_layout Itemize
+Verification that all work and deliverables were acceptable.
+\end_layout
+
+\begin_layout Itemize
+Early termination of a contract can result from a mutual agreement of the
+ parties or from the default of one of the parties.
+\end_layout
+
+\begin_layout Itemize
+Buyer may have the right to terminate the whole contract or a portion of
+ a contract, for cause or convenience, at any time.
+ Buyer may have to compensate seller for any completed and accepted work.
+\end_layout
+
+\begin_layout Subsubsection
+Contract Closure: Inputs
+\end_layout
+
+\begin_layout Enumerate
+Procurement Management Plan (12.1.3.1)
+\end_layout
+
+\begin_layout Enumerate
+Contract Management Plan (12.4.3.3)
+\end_layout
+
+\begin_layout Enumerate
+Contract Documentation (12.5.3.1)
+\end_layout
+
+\begin_layout Enumerate
+Contract Closure Procedure (4.7.3.2)
+\end_layout
+
+\begin_layout Subsubsection
+Contract Closure: Tools and Techniques
+\end_layout
+
+\begin_layout Enumerate
+Procurement Audits
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+A structured review of the procurement process in order to identify successes
+ and failures.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Records Management System (12.5)
+\end_layout
+
+\begin_layout Subsubsection
+Contract Closure: Outputs
+\end_layout
+
+\begin_layout Enumerate
+Closed Contracts
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+The buyer provides the seller with formal written notice that the contract
+ has been completed.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Organization Process Assets (Updates)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Contract file.
+ A complete set of indexed contract documentation.
+\end_layout
+
+\begin_layout Itemize
+Deliverable acceptance.
+ The buyer proves the seller with formal written notice that the deliverables
+ have been accepted or rejected.
+\end_layout
+
+\begin_layout Itemize
+Lessons learned documentation.
+ Lessons learned analysis and process improvement recommendations for future
+ procurement implementation.
+\end_layout
+
+\end_deeper
+\end_body
+\end_document
