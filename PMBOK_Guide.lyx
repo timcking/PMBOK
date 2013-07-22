@@ -195,202 +195,40 @@ s.
 \end_layout
 
 \begin_layout Subsection
-The PMBOK Guide Structure
+Relationships among Project Management, Program Management, and Portfolio
+ Management 
 \end_layout
 
 \begin_layout Subsubsection
-Section I: The Project Management Framework
-\end_layout
-
-\begin_layout Standard
-Chapter 1, Introduction
-\end_layout
-
-\begin_layout Standard
-Chapter 2, Project Life Cycle and Organization.
+Portfolio Management 
 \end_layout
 
 \begin_layout Subsubsection
-Section II: The Standard for Project Management of a Project
-\end_layout
-
-\begin_layout Standard
-Chapter 3, Project Management Processes for a Project
+Program Management
 \end_layout
 
 \begin_layout Subsubsection
-Section III: The Project Management Knowledge Areas
+Projects and Strategic Planning 
 \end_layout
 
-\begin_layout Standard
-Chapter 4, Project Integration Management
-\end_layout
-
-\begin_layout Standard
-Chapter 5, Project Scope Management
-\end_layout
-
-\begin_layout Standard
-Chapter 6, Project Time Management
-\end_layout
-
-\begin_layout Standard
-Chapter 7, Project Cost Management
-\end_layout
-
-\begin_layout Standard
-Chapter 8, Project Quality Management
-\end_layout
-
-\begin_layout Standard
-Chapter 9, Project Human Resource Management
-\end_layout
-
-\begin_layout Standard
-Chapter 10, Project Communications Management
-\end_layout
-
-\begin_layout Standard
-Chapter 11, Project Risk Management
-\end_layout
-
-\begin_layout Standard
-Chapter 12, Project Procurement Management
+\begin_layout Subsubsection
+Project Management Office 
 \end_layout
 
 \begin_layout Subsection
-Areas of Expertise
-\end_layout
-
-\begin_layout Standard
-Effective Project Management requires knowledge and skills from at least
- five areas of expertise.
-\end_layout
-
-\begin_layout Subsubsection
-The Project Management Body of Knowledge
-\end_layout
-
-\begin_layout Itemize
-Project Life Cycle Definition (Ch.
- 2)
-\end_layout
-
-\begin_layout Itemize
-Five Project Management Process Groups (Ch.
- 3)
-\end_layout
-
-\begin_layout Itemize
-Nine Knowledge Areas (Ch.
- 4 – 12)
-\end_layout
-
-\begin_layout Subsubsection
-Application area knowledge, standards, and regulations.
-\end_layout
-
-\begin_layout Itemize
-Application areas are usually defined in terms of:
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Function departments and supporting disciplines (legal, marketing, logistics,
- personnel)
-\end_layout
-
-\begin_layout Itemize
-Technical elements ( software development, engineering)
-\end_layout
-
-\begin_layout Itemize
-Management specializations (government contracting, new product development)
-\end_layout
-
-\begin_layout Itemize
-Industry groups (automotive, utilities, financial services)
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ISO differentiates between standards and regulations:
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-A standard is a document established consensus and approved by a recognized
- body (computer disk sizes).
-\end_layout
-
-\begin_layout Itemize
-A regulation is a government imposed requirement with which compliance is
- mandatory (building codes).
-\end_layout
-
-\end_deeper
-\begin_layout Subsubsection
-Understanding the project environment.
-\end_layout
-
-\begin_layout Standard
-The project manager should determine whether Project Management is recognized
- as a valid role with accountability and authority for managing the project.
-\end_layout
-
-\begin_layout Subsubsection
-General management knowledge and skills.
-\end_layout
-
-\begin_layout Standard
-General management skills are essential for the project manager.
-\end_layout
-
-\begin_layout Subsubsection
-Interpersonal skills.
+Project Management and Operations Management
 \end_layout
 
 \begin_layout Subsection
-Project Management Context
+Role of a Project Manager
 \end_layout
 
-\begin_layout Subsubsection
-Programs and Program Management
+\begin_layout Subsection
+Project Management Body of Knowledge
 \end_layout
 
-\begin_layout Standard
-A program is a group of related projects managed in a coordinated way.
-\end_layout
-
-\begin_layout Subsubsection
-Portfolios and Portfolio Management
-\end_layout
-
-\begin_layout Standard
-A portfolio is a collection of projects or programs and other work that
- are grouped together to meet strategic business needs.
- 
-\end_layout
-
-\begin_layout Subsubsection
-Sub-Projects
-\end_layout
-
-\begin_layout Itemize
-Individual sub-projects can be referred to as projects and managed as such.
-\end_layout
-
-\begin_layout Itemize
-Sub-projects are often contracted to an external enterprise.
-\end_layout
-
-\begin_layout Subsubsection
-Project Management Office
-\end_layout
-
-\begin_layout Standard
-The PMO is an organization unit to centralize and coordinate the management
- of projects under its domain.
+\begin_layout Subsection
+Enterprise Environmental Factors 
 \end_layout
 
 \begin_layout Section
@@ -398,7 +236,7 @@ Project Life Cycle and Organization
 \end_layout
 
 \begin_layout Subsection
-The Project Life Cycle
+The Project Life Cycle -- Overview
 \end_layout
 
 \begin_layout Standard
@@ -522,7 +360,7 @@ Project Life Cycle and Product Life Cycle Relationships
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Product_vs_Project.eps
+	filename Product vs Project.eps
 	scale 50
 
 \end_inset
@@ -897,7 +735,7 @@ Project Management Process Groups
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Project_Lifecycle.eps
+	filename Project Lifecycle.eps
 	scale 50
 
 \end_inset
