@@ -1061,12 +1061,60 @@ This area includes the processes and activities needed to identify, define,
  within the process groups.
 \end_layout
 
+\begin_layout Itemize
+The need for Project Integration Management is necessary in situations where
+ individual processes interact.
+ For example, a cost estimate needed for a contingency plan involves integrating
+ the processes in the Project Cost, Time, and Risk Management Knowledge
+ Areas.
+\end_layout
+
 \begin_layout Subsection
 Develop Project Charter
 \end_layout
 
-\begin_layout Subsection
-Develop Preliminary Project Scope Statement
+\begin_layout Subsubsection
+Inputs
+\end_layout
+
+\begin_layout Enumerate
+Project statement of work
+\end_layout
+
+\begin_layout Enumerate
+Business case
+\end_layout
+
+\begin_layout Enumerate
+Agreements
+\end_layout
+
+\begin_layout Enumerate
+Enterprise environmental factors
+\end_layout
+
+\begin_layout Enumerate
+Organizational process assets
+\end_layout
+
+\begin_layout Subsubsection
+Tools & Techniques
+\end_layout
+
+\begin_layout Enumerate
+Expert Judgement
+\end_layout
+
+\begin_layout Enumerate
+Facilitation Techniques
+\end_layout
+
+\begin_layout Subsubsection
+Outputs
+\end_layout
+
+\begin_layout Enumerate
+Project Charter
 \end_layout
 
 \begin_layout Subsection
@@ -1082,11 +1130,11 @@ Monitor and Control Project Work
 \end_layout
 
 \begin_layout Subsection
-Integrated Change Control
+Perform Integrated Change Control
 \end_layout
 
 \begin_layout Subsection
-Close Project
+Close Project or Phase
 \end_layout
 
 \begin_layout Section
